@@ -1,0 +1,1 @@
+#The first hash used a symbol x as the key, while the second one used the string value of the x variable.

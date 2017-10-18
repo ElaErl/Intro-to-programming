@@ -1,0 +1,1 @@
+# A variable "shoes" has not been defined or is outside of the scope.

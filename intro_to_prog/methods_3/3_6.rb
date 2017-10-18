@@ -1,0 +1,1 @@
+#It tells you you should use 2 arguments instead of 1.
