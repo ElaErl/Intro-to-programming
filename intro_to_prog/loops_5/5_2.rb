@@ -1,5 +1,5 @@
-anwser = ''
+answer = ''
 
-while anwser != 'STOP' do
-  anwser = gets.chomp
+while answer != 'STOP' do
+  answer = gets.chomp
 end
